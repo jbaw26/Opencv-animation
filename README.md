@@ -1,3 +1,3 @@
 # Opencv-animation
 
-Some animation with opencv as interface display
+Some animations with opencv as interface display
