@@ -17,7 +17,11 @@ Different not very pretty circle animations
 
 ![gif_circle](https://user-images.githubusercontent.com/54853371/224008805-04103675-9a32-4b8d-8d9c-8ab56ea1891e.gif)
 
-Displaying a GIF and browsing Displaying a running line
+Displaying a GIF
+
+![human_gif](https://user-images.githubusercontent.com/54853371/224019238-84176ac9-a0e8-4ab8-9724-0c500a19f086.gif)
+
+Displaying a GIF on x frames and browsing Displaying a running line
 
 ![animation_human](https://user-images.githubusercontent.com/54853371/224009961-96d93c6d-960f-4534-aa4d-52b1f40b07a8.gif)
 
