@@ -7,13 +7,6 @@ import pytesseract
 
 
 
-# https://www.youtube.com/watch?v=a2XXkUBEQFQ&list=PLwW0TR1gIf7wKyAbKtoTPmbAqatODiJJH&index=3
-
-# https://www.youtube.com/watch?v=GY0mGV5FCHE&list=PLwW0TR1gIf7wKyAbKtoTPmbAqatODiJJH&index=5
-#26 sec
-
-# https://www.youtube.com/watch?v=GY0mGV5FCHE&list=PLwW0TR1gIf7wKyAbKtoTPmbAqatODiJJH&index=5
-# 46 sec
 
 path = r"C:\Users\jb264\OneDrive\Bureau\hello\hello\data\video_jambe\a.mp4"
 capture_video = cv2.VideoCapture(path)
