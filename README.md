@@ -1,6 +1,6 @@
 # Opencv-animation
 
-Some animations with opencv as interface display projet in course
+Some animations with opencv as interface display projet <h1>in course</h1> code isn't good
 
 opening and closing of a rectangle with darkening in the middle
 
